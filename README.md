@@ -1,5 +1,10 @@
 ## 끊임없이 도전하는 개발자 최명성입니다. 🔥
-
+- 문제 해결을 위해 끊임 없이 도전합니다.
+- 다양한 경험을 통해서 문제를 다각도에서 바라봅니다.
+- 힘든 일도 마다하지 않습니다.
+- 모든 경험은 성장으로 직결됩니다.
+## portfolio
+[포트폴리오 보러가기](https://www.canva.com/design/DAGGlPD5Ais/LQ6MABykcNyAfjc4he5Vdg/view?utm_content=DAGGlPD5Ais&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## Learning
 ![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
