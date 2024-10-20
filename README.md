@@ -1,22 +1,26 @@
 ## 끊임없이 도전하는 개발자 최명성입니다. 🔥
-- 문제 해결을 위해 끊임 없이 도전합니다.
-- 다양한 경험을 통해서 문제를 다각도에서 바라봅니다.
-- 힘든 일도 마다하지 않습니다.
-- 모든 경험은 성장으로 직결됩니다.
+- 문제 해결을 위해 끊임 없이 **도전**합니다.
+- 맡은 역할을 **책임감** 있게 수행합니다.
+- **협업**을 통해서 함께 **성장**하고 싶습니다.
 
 ## 😄 Activity
-- 삼성 청년 SW 아카데미 11기 실습코치 (24. 6. 26. - 24. 11. 30.)
+- 삼성 청년 SW 아카데미 11기 실습코치 (24. 6. 26. - 재직중.)
 - 삼성 청년 SW 아카데미 (23. 7. 5. - 24. 6. 25.)
-- SW 역량테스트 B형(professional) 취득 (23. 2. 17.)
 - 네이버 부스트캠프 웹·모바일 7기 (22. 7. 18. - 22. 12. 16.)
 
 ## 🏆 Awards
 - 삼성 청년 SW 아카데미 공통 프로젝트 우수상 2등 (2024. 2.)
 - 삼성 청년 SW 아카데미 특화 프로젝트 우수상 1등 (2024. 4.)
 - 삼성 청년 SW 아카데미 자율 프로젝트 우수상 3등 (2024. 5.)
+- 삼성 청년 SW 아카데미 부산지방고용노동청장상 (2024. 6.)
+  
+## 🏷 Qualifications
+- SW 역량테스트 B형(professional) 취득 (24. 2. 17.)
+- 정보처리기사 (24. 9. 10.)
+- SQL개발자(SQLD) (24. 4. 5.)
 
 ## 🎨 Portfolio
-[포트폴리오 보러가기](https://www.canva.com/design/DAGGlPD5Ais/LQ6MABykcNyAfjc4he5Vdg/view?utm_content=DAGGlPD5Ais&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[포트폴리오 보러가기](https://www.canva.com/design/DAGTs74uK_8/y_LBA31WJUo8lLljdcDJYA/view?utm_content=DAGTs74uK_8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## ✏ Learning
 ![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![unrealengine](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
